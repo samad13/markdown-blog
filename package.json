@@ -1,0 +1,22 @@
+{
+  "name": "myBlog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "S13",
+  "license": "ISC",
+  "dependencies": {
+    "dompurify": "^2.3.3",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "jsdom": "^18.1.1",
+    "marked": "^4.0.5",
+    "method-override": "^3.0.0",
+    "mongoose": "^6.0.13",
+    "slugify": "^1.6.3"
+  }
+}
